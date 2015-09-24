@@ -1,0 +1,775 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//API//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:/Vancouver-Tech-Co-Founders/upcoming.ical/
+X-WR-CALNAME:Upcoming in Vancouver Pixel Crafters
+BEGIN:VTIMEZONE
+TZID:America/Vancouver
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Vancouver
+X-LIC-LOCATION:America/Vancouver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20150923T200000
+DTEND;TZID=America/Vancouver:20150923T230000
+STATUS:CONFIRMED
+SUMMARY:Fuckup Nights Vancouver - Vol. 02
+DESCRIPTION:• •  RSVP HERE: ow.ly/SlPpX (FREE)   Hi Friends! My name is K
+ ei Baritugo and I'm hosting Fuckup Nights Vol. 02 at The Imperial (319 M
+ ain St.) on Wed. Sept. 23 at 8:00 PM as part of the Vancouver Economic C
+ ommission's Startup City.  Fuckup Nights (FUN) is an intimate evening of
+  storytelling and wisdom. It is a casual meetup of entrepreneurs\, creat
+ ives and thought leaders from a variety of industries\, where successful
+  speakers share what they've learned from a business or project failure 
+ that they personally experienced. This speaker series that originated in
+  Mexico and is now in 136 cities around the world. I hope you can join m
+ e. -Kei
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150917T173559Z
+LAST-MODIFIED:20150918T001357Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/225425524/
+UID:event_225425524@meetup.com
+LOCATION:The Imperial (319 Main Street\, Vancouver\, BC\, Canada)
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20150924T180000
+DTEND;TZID=America/Vancouver:20150924T210000
+STATUS:CONFIRMED
+SUMMARY:Startup Drinks Vancouver
+DESCRIPTION:Startup drinks are a casual gathering at the end of each mont
+ h for anyone who's interested in startups. We meet at 131 Water in downt
+ own Vancouver and we chat about all things #startups...projects\, fundin
+ g\, challenges\, etc. This is a great opportunity to connect with others
+  in the community and a great way to connect on a regular basis. See you
+  there :)
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20120907T191507Z
+LAST-MODIFIED:20130806T050333Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/219372470/
+UID:event_qbshkdytmbgc@meetup.com
+LOCATION:131 Water Kitchen & Bar (131 Water St.\, Vancouver\, BC\, Canada
+ )
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+SEQUENCE:20
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20150925T150000
+DTEND;TZID=America/Vancouver:20150925T180000
+STATUS:CONFIRMED
+SUMMARY:Launch Academy - VSW Open House
+DESCRIPTION:Please register here on our event page: https://www.picatic.c
+ om/la-openhouse  In the past three years\, Launch Academy has helped ove
+ r 350 companies with our mentorship and education programs\, collectivel
+ y creating 500 new jobs\, and raising over $45M in funding. Today\, we a
+ re Vancouver's leading entrepreneurship facility\, housing our tech incu
+ bator alongside six partners:  • HIGHLINE   • Lighthouse Labs   • Stanle
+ y Park Ventures   • Microsoft   • BDC Capital   • Victory Square Venture
+ s   We're opening our doors to the tech community this Vancouver Startup
+  Week! Meet and connect with past and present members who have helped us
+  build this great community. Facilitated tours will happen every 15-30 m
+ inutes.  Refreshments provided.  Please register here on our event page:
+  https://www.picatic.com/la-openhouse
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150923T004846Z
+LAST-MODIFIED:20150923T005323Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/225548518/
+UID:event_225548518@meetup.com
+LOCATION:Launch Academy (300-128 W. Hastings\, Vancouver\, BC\, Canada)
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20150925T170000
+DTEND;TZID=America/Vancouver:20150925T200000
+STATUS:CONFIRMED
+SUMMARY:0 to 100: Accelerate Your Tech Business
+DESCRIPTION:Join over 500 entrepreneurs and community members for the Off
+ icial Friday Night Social of Vancouver Startup Week presented by Smythe 
+ Ratcliffe\, Boast Capital and Launch Academy. **THIS IS A TICKETED EVENT
+ . PLEASE RSVP HERE: https://www.picatic.com/vsw0to100 **  Agenda  •  5 t
+ o 6pm\, Happy Hour: collect your nametags and network with fellow attend
+ ees over brews and bites. Ticket price includes appetizers and one drink
+  ticket.  •  6 to 7pm\, Expert Panel: learn how to take your company fro
+ m idea to exit. Featuring founders from the fastest growing Vancouver co
+ mpanies:     • Aman Mann\, Co-founder & CEO\, Procurify (Seed stage)    
+ • Tanis Jorge\, Co-founder\, Trulioo (Growth stage)     • Sean Clark\, C
+ o-founder & Chief Revenue Officer\, SHOEme (Pre-IPO)   ....More speakers
+  announced soon!  •  7 to 7:30pm\, Product Hunt: check out live demos fr
+ om Vancouver's newest and hottest startups. APPLY HERE.  •  7:30pm to la
+ te: Official Friday Night Social of Vancouver Startup Week  All Vancouve
+ r Startup Week pass holders receive free access to this event\, and this
+  is one of the few events during Startup Week where participants can buy
+  stand-alone tickets for this event only.  **THIS IS A TICKETED EVENT. P
+ LEASE RSVP HERE: https://www.picatic.com/vsw0to100 **
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150824T194301Z
+LAST-MODIFIED:20150824T195028Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/224856995/
+UID:event_224856995@meetup.com
+LOCATION:Villa Amato Ballroom (Mario's Gelati Building\, 3rd Floor\, 88 E
+ ast 1st Ave\, Vancouver\, BC\, Canada)
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20150929T080000
+DTEND;TZID=America/Vancouver:20150929T093000
+STATUS:CONFIRMED
+SUMMARY:Open Coffee
+DESCRIPTION:Open Coffee Club is a casual gathering of people involved/int
+ erested in founding\, operating or funding startups. The format is simil
+ ar to Startup Drinks\, but in the morning and with coffee.  The vibe is 
+ more hangout than event and provides people with a regular time and loca
+ tion to talk shop\, discuss news\, ask questions and and meet others in 
+ the startup community they may only see occasionally at more formal even
+ ts.  We're meeting 8:00 - 9:30 am on alternating Tuesdays at Nelson the 
+ Seagull\, 315 Carrall St\, Gastown.  For more information and background
+ \, please see the Open Coffee Club post on the Pixel Crafters website.  
+ See you there!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20131217T175044Z
+LAST-MODIFIED:20150131T020351Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/219372473/
+UID:event_qhwqhhytmbmc@meetup.com
+LOCATION:Nelson the Seagull (315 Carrall Street\, Vancouver\, BC\, Canada
+ )
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20150929T123000
+DTEND;TZID=America/Vancouver:20150929T193000
+STATUS:CONFIRMED
+SUMMARY:VanFUNDING 2015: Crowdfunding Conference
+DESCRIPTION:This is a ticketed event\, please register here Get 10% of th
+ e ticketed price by using promo code: CROWDGIFT VanFUNDING 2015 is the l
+ eading Crowdfunding conference in Western Canada for innovative ventures
+  and businesses seeking to raise seed and growth capital from online cro
+ wdfunding markets. Get VanFUNDED! Learn and connect with Innovation\, En
+ trepreneurship\, Private Capital Networks and Investors. Join the Nation
+ al Crowdfunding Association of Canada\, sponsors and presenting partners
+  on Tuesday\, September 29 in downtown Vancouver for an immersive and in
+ teractive half-day event including TEDx style storytelling\, start-up pi
+ tches\, expert presentations and panelists\, followed by a networking re
+ ception with mentoring opportunities. This is an exclusive opportunity t
+ o learn\, network and be mentored by crowdfunding-fintech experts and in
+ vestors in Canada interested to help businesses achieve funding success 
+ and scale. The British Columbia Securities Commission (BCSC) and Group o
+ f 6 provinces recently adopted the Start-up Exemption on May 14\, 2015\,
+  enabling startups and early-stage companies in these jurisdictions to n
+ ow raise up to $500\,000 per calendar year through online funding portal
+ s. Crowdfunding markets and fintech companies are exploding with entrepr
+ eneurs\, investors\, third party providers and experts who are keen to t
+ ake advantage of a promising and brand new fundraising channel for small
+  to medium sized enterprises (SMEs). Following the success of the sold o
+ ut inaugural 2015 Canadian Crowdfunding Summit on March 3 in Toronto\, V
+ anFUNDING 2015 is about igniting venture funding opportunities in Wester
+ n Canada together with industry and ecosystem partners to share the newe
+ st developments\, thought leadership\, and assist and connect entreprene
+ urs that are actively raising capital.
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150921T193149Z
+LAST-MODIFIED:20150921T193302Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/225517233/
+UID:event_225517233@meetup.com
+LOCATION: Library Square (Alice MacKay Room\, Lower Level) (350 West Geor
+ gia St. Vancouver\, BC V6B 6B1\, Vancouver\, BC\, Canada)
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20150930T180000
+DTEND;TZID=America/Vancouver:20150930T210000
+STATUS:CONFIRMED
+SUMMARY:Knowing is Half the Battle - Using Research to Make Better Decisi
+ ons
+DESCRIPTION:https://www.eventbrite.com/e/knowing-is-half-the-battle-using
+ -research-to-make-better-decisions-tickets-18060336954 Need to make deci
+ sions about the products or services you manage\, but feel like you can'
+ t do much better than an educated guess? Market research is a discipline
+  that helps companies understand their target audience and competitors s
+ o that they can make good decisions.Market research? What is it? There a
+ re different types? Does it take a long time? Can we afford it?Join us f
+ or a panel discussion on the intricacies of quantitative and qualitative
+  research and how they can be used to improve your business.The panel wi
+ ll consist of leading market research professionals and consumers\, capa
+ ble of answering your questions on how to use this service to improve yo
+ ur bottom line.Claire Booth is the owner and lead researcher at Lux Insi
+ ghtsKC Sato is a senior product manager in charge of market intelligence
+  at TELUSLiddie Sorensen-Lawrence is a senior VP at NRG Research GroupMa
+ rk Proudfoot is the co-founder and COO of JustGreet.comDuncan Blair is t
+ he head of strategy at Invoke Media and will be moderating the panel Dri
+ nks will be provided courtesy of our sponsors: Majid Khoury and NRG Rese
+ arch Group
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150820T164600Z
+LAST-MODIFIED:20150820T173143Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/224767323/
+UID:event_224767323@meetup.com
+LOCATION:Mobify (948 Homer Street\, 3rd floor\, Vancouver\, BC\, Canada V
+ 6B 2W7 )
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20151002T173000
+DTEND;TZID=America/Vancouver:20151002T210000
+STATUS:CONFIRMED
+SUMMARY:Wishpond Open House
+DESCRIPTION:October Edition! More beer and pizza than ever before!~ Jason
+  Tam will be organizing these events from now on. He's going to make the
+ m way better than I ever could! Come hang out with all of the guys and g
+ als at Wishpond! This is an event that will continue to occur on the fir
+ st Friday of every month\, many fun times are to be had. Our beautiful C
+ oal Harbour office is located only 8 minutes from Burrard skytrain stati
+ on. Join us for a night of pizza\, ping-pong\, foosball\, video games\, 
+ and refreshments. We're a friendly group of people that want to get to k
+ now our community better and would love for everyone in the Vancouver te
+ ch scene to come by and enjoy themselves. The itinerary for the night: -
+  5:30 everyone can start funnelling in\, we want to make sure everything
+  is ready for you guys - Mingle\, get to know everyone\, have some drink
+ s\, but most of all: have a great time! - ~9:00 we're going to try to wi
+ nd things down around here and disperse to carry the party on to other p
+ laces :)         You should come here if you like any of these things: •
+  Meeting great and fun people. • Playing ping-pong against some of our c
+ hamps • Playing foosball. You can try to beat our CEO\, but good luck!  
+ • Pizza! (with some vegan and gluten free selection)  • A wide selection
+  of beverages that should satisfy all We're looking forward to having al
+ l of you here! And please if you're going to be driving\, drink responsi
+ bly! If you'd like to learn more about what we do here at Wishpond then 
+ please visit: http://corp.wishpond.com  Oh\, we're also hiring
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150921T180552Z
+LAST-MODIFIED:20150921T210818Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/225514579/
+UID:event_225514579@meetup.com
+LOCATION:Wishpond (1500 West Georgia\, Office #1000\, Vancouver\, BC\, Ca
+ nada)
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20151003T100000
+DTEND;TZID=America/Vancouver:20151003T130000
+STATUS:CONFIRMED
+SUMMARY:Startup Slam 2.0\, Presented by Sendwithus
+DESCRIPTION:Startup Slam is a one day series of hands-on technical worksh
+ ops hosted by leaders in the Victoria startup community. http://www.star
+ tupslam.io Assignments and personal projects are very different from cod
+ ing in the wild. We want to bridge the gap between what it means to lear
+ n to program\, and what it means to actually create software customers g
+ et excited about. Workshops presented by:MetaLab\, Sendwithus\, Flytogra
+ pher\, Tiny Mob Games\, Pretio Interactive\, and OneNet Marketing Full i
+ nfo and registration at http://www.startupslam.io
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150912T180520Z
+LAST-MODIFIED:20150913T053615Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/225307724/
+UID:event_225307724@meetup.com
+LOCATION:University of Victoria (3800 Finnerty Rd\, Victoria\, BC\, Canad
+ a)
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20151008T180000
+DTEND;TZID=America/Vancouver:20151008T210000
+STATUS:CONFIRMED
+SUMMARY:Mina from Uber at Declassified 2
+DESCRIPTION:Running with Unicorns: Fireside chat with Mina Radhakrishnan 
+ Tickets must be purchased at Eventbrite: https://www.eventbrite.com/e/de
+ classified-with-mina-radhakrishnan-tickets-17576102596 Mina Radhakrishna
+ n’s work has literally reshaped the landscape of our cities. As Uber’s f
+ irst Head of Product\, she helped drive monumental growth with one of th
+ e most influential (and controversial) companies of our generation.We’ll
+  discover how Mina overcame mind-bendingly complex challenges – while st
+ aying sane amid the chaos of a burgeoning tech unicorn. ***Guest: Mina**
+ *From life in NYC as a business analyst at Goldman Sachs\, Mina Radhakri
+ shnan looked west toward a quintessentially Silicon Valley career. As on
+ e of Modcloth’s first PMs\, she built out core e-commerce foundations\, 
+ before joining Uber – then only twenty employees strong – as their first
+  Head of Product. Today\, Mina lends her expertise as a mentor for 500 S
+ tartups\, and is Entrepreneur-In-Residence at Redpoint Ventures.   ***Ho
+ st: Mack***Mack Flavelle is the founder of the VR community Hammer and T
+ usk. Previously\, he was the CEO of gaming outfit Compass Engine (sold t
+ o East Side Games)\, and served as VP of Marketing at Tapstream. There\,
+  he teamed up with Product Hunt to host the now-infamous Product Debater
+ s series. Mack also serves as advisor to CareLedger\, a YC-backed digita
+ l health startup.
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150922T184457Z
+LAST-MODIFIED:20150922T235428Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/225539980/
+UID:event_225539980@meetup.com
+LOCATION:Axiom Zen (788 Beatty St\, Vancouver\, BC\, Canada)
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20151008T180000
+DTEND;TZID=America/Vancouver:20151008T210000
+STATUS:CONFIRMED
+SUMMARY:CodeCore Demo Day - August 2015 Cohort
+DESCRIPTION:Come check out web applications built by CodeCore's latest de
+ velopers.  CodeCore is a 9 week intensive training program for Web Softw
+ are Development with a focus on Ruby on Rails\, Javascript\, JavaScript 
+ Frameworks (like React.js) and more.  Thinking about hiring a new develo
+ per? Wondering what can be built by a graduate of our bootcamp? If so\, 
+ this is the place for you!  Come watch demos of projects our students ha
+ ve created\, with time for a brief Q&A afterwards.  What to expect:  Ent
+ ry Level Developers with previous CS/programming fundamentals and develo
+ pment experience  Developers who have been trained in Ruby on Rails\, Ja
+ vascript\, Popular APIs\, Test Driven Development\, and Agile Methodolog
+ ies  A range of impressive web applications  Complimentary food and refr
+ eshments will be provided!  Sign up here: https://www.picatic.com/codeco
+ re-oct-demo-day
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150924T004851Z
+LAST-MODIFIED:20150924T004851Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/225573295/
+UID:event_225573295@meetup.com
+LOCATION:CodeCore (142 W Hastings St.\, Vancouver\, BC\, Canada)
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20151013T080000
+DTEND;TZID=America/Vancouver:20151013T093000
+STATUS:CONFIRMED
+SUMMARY:Open Coffee
+DESCRIPTION:Open Coffee Club is a casual gathering of people involved/int
+ erested in founding\, operating or funding startups. The format is simil
+ ar to Startup Drinks\, but in the morning and with coffee.\nThe vibe is 
+ more hangout than event and provides people with a regular time and loca
+ tion to talk shop\, discuss news\, ask questions and and meet others in 
+ the startup community they may only see occasionally at more formal even
+ ts.\nWe're meeting 8:00 - 9:30 am on alternating Tuesdays at Nelson the 
+ Seagull\, 315 Carrall St\, Gastown.\nFor more information and background
+ \, please see the Open Coffee Club post on the Pixel Crafters website.\n
+ See you there!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20131217T175044Z
+LAST-MODIFIED:20150131T020351Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/qhwqhhytnbrb/
+ 
+UID:event_qhwqhhytnbrb@meetup.com
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20151016T180000
+DTEND;TZID=America/Vancouver:20151018T140000
+STATUS:CONFIRMED
+SUMMARY:Startup Scrums Hackathon
+DESCRIPTION:Startup Scrums hackathon brought to you by Procurify and Brai
+ nstation.  Your mission: create a working prototype for a product that w
+ ill help people reach their full potential - create something that will 
+ help people release their superpower! Apps that make people more efficie
+ nt\, more organized and just have a better day in general. Show us what 
+ you got - there are no limits!  You will form teams of 3-5 (with at leas
+ t one hacker\, hustler and hipster each).  Prizes:$500 cash prize1 month
+  of FREE co-working space at BrainStation$1000 merit scholarship for a B
+ rainstation courseGuaranteed job interviews with ProcurifyProcurify t-sh
+ irtsLunch with Procurify founder(s)All participants will receive:Tons of
+  connections\, mentorship and swag and other surprises!  Go here to sign
+ -up: http://bit.ly/startupscrums
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150902T191459Z
+LAST-MODIFIED:20150902T191800Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/225072970/
+UID:event_225072970@meetup.com
+LOCATION:BrainStation HQ (1110 Hamilton Street #400\, Vancouver\, BC\, Ca
+ nada)
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20151027T080000
+DTEND;TZID=America/Vancouver:20151027T093000
+STATUS:CONFIRMED
+SUMMARY:Open Coffee
+DESCRIPTION:Open Coffee Club is a casual gathering of people involved/int
+ erested in founding\, operating or funding startups. The format is simil
+ ar to Startup Drinks\, but in the morning and with coffee.\nThe vibe is 
+ more hangout than event and provides people with a regular time and loca
+ tion to talk shop\, discuss news\, ask questions and and meet others in 
+ the startup community they may only see occasionally at more formal even
+ ts.\nWe're meeting 8:00 - 9:30 am on alternating Tuesdays at Nelson the 
+ Seagull\, 315 Carrall St\, Gastown.\nFor more information and background
+ \, please see the Open Coffee Club post on the Pixel Crafters website.\n
+ See you there!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20131217T175044Z
+LAST-MODIFIED:20150131T020351Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/qhwqhhytnbkc/
+ 
+UID:event_qhwqhhytnbkc@meetup.com
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20151029T180000
+DTEND;TZID=America/Vancouver:20151029T210000
+STATUS:CONFIRMED
+SUMMARY:Startup Drinks Vancouver
+DESCRIPTION:Startup drinks are a casual gathering at the end of each mont
+ h for anyone who's interested in startups. We meet at 131 Water in downt
+ own Vancouver and we chat about all things #startups...projects\, fundin
+ g\, challenges\, etc.\nThis is a great opportunity to connect with other
+ s in the community and a great way to connect on a regular basis.\nSee y
+ ou there :)
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20120907T191507Z
+LAST-MODIFIED:20130806T050333Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/qbshkdytnbmc/
+ 
+UID:event_qbshkdytnbmc@meetup.com
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20151110T080000
+DTEND;TZID=America/Vancouver:20151110T093000
+STATUS:CONFIRMED
+SUMMARY:Open Coffee
+DESCRIPTION:Open Coffee Club is a casual gathering of people involved/int
+ erested in founding\, operating or funding startups. The format is simil
+ ar to Startup Drinks\, but in the morning and with coffee.\nThe vibe is 
+ more hangout than event and provides people with a regular time and loca
+ tion to talk shop\, discuss news\, ask questions and and meet others in 
+ the startup community they may only see occasionally at more formal even
+ ts.\nWe're meeting 8:00 - 9:30 am on alternating Tuesdays at Nelson the 
+ Seagull\, 315 Carrall St\, Gastown.\nFor more information and background
+ \, please see the Open Coffee Club post on the Pixel Crafters website.\n
+ See you there!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20131217T175044Z
+LAST-MODIFIED:20150131T020351Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/qhwqhhytpbnb/
+ 
+UID:event_qhwqhhytpbnb@meetup.com
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20151124T080000
+DTEND;TZID=America/Vancouver:20151124T093000
+STATUS:CONFIRMED
+SUMMARY:Open Coffee
+DESCRIPTION:Open Coffee Club is a casual gathering of people involved/int
+ erested in founding\, operating or funding startups. The format is simil
+ ar to Startup Drinks\, but in the morning and with coffee.\nThe vibe is 
+ more hangout than event and provides people with a regular time and loca
+ tion to talk shop\, discuss news\, ask questions and and meet others in 
+ the startup community they may only see occasionally at more formal even
+ ts.\nWe're meeting 8:00 - 9:30 am on alternating Tuesdays at Nelson the 
+ Seagull\, 315 Carrall St\, Gastown.\nFor more information and background
+ \, please see the Open Coffee Club post on the Pixel Crafters website.\n
+ See you there!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20131217T175044Z
+LAST-MODIFIED:20150131T020351Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/qhwqhhytpbgc/
+ 
+UID:event_qhwqhhytpbgc@meetup.com
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20151126T180000
+DTEND;TZID=America/Vancouver:20151126T210000
+STATUS:CONFIRMED
+SUMMARY:Startup Drinks Vancouver
+DESCRIPTION:Startup drinks are a casual gathering at the end of each mont
+ h for anyone who's interested in startups. We meet at 131 Water in downt
+ own Vancouver and we chat about all things #startups...projects\, fundin
+ g\, challenges\, etc.\nThis is a great opportunity to connect with other
+ s in the community and a great way to connect on a regular basis.\nSee y
+ ou there :)
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20120907T191507Z
+LAST-MODIFIED:20130806T050333Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/qbshkdytpbjc/
+ 
+UID:event_qbshkdytpbjc@meetup.com
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20151208T080000
+DTEND;TZID=America/Vancouver:20151208T093000
+STATUS:CONFIRMED
+SUMMARY:Open Coffee
+DESCRIPTION:Open Coffee Club is a casual gathering of people involved/int
+ erested in founding\, operating or funding startups. The format is simil
+ ar to Startup Drinks\, but in the morning and with coffee.\nThe vibe is 
+ more hangout than event and provides people with a regular time and loca
+ tion to talk shop\, discuss news\, ask questions and and meet others in 
+ the startup community they may only see occasionally at more formal even
+ ts.\nWe're meeting 8:00 - 9:30 am on alternating Tuesdays at Nelson the 
+ Seagull\, 315 Carrall St\, Gastown.\nFor more information and background
+ \, please see the Open Coffee Club post on the Pixel Crafters website.\n
+ See you there!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20131217T175044Z
+LAST-MODIFIED:20150131T020351Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/qhwqhhytqblb/
+ 
+UID:event_qhwqhhytqblb@meetup.com
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20151222T080000
+DTEND;TZID=America/Vancouver:20151222T093000
+STATUS:CONFIRMED
+SUMMARY:Open Coffee
+DESCRIPTION:Open Coffee Club is a casual gathering of people involved/int
+ erested in founding\, operating or funding startups. The format is simil
+ ar to Startup Drinks\, but in the morning and with coffee.\nThe vibe is 
+ more hangout than event and provides people with a regular time and loca
+ tion to talk shop\, discuss news\, ask questions and and meet others in 
+ the startup community they may only see occasionally at more formal even
+ ts.\nWe're meeting 8:00 - 9:30 am on alternating Tuesdays at Nelson the 
+ Seagull\, 315 Carrall St\, Gastown.\nFor more information and background
+ \, please see the Open Coffee Club post on the Pixel Crafters website.\n
+ See you there!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20131217T175044Z
+LAST-MODIFIED:20150131T020351Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/qhwqhhytqbdc/
+ 
+UID:event_qhwqhhytqbdc@meetup.com
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20151231T180000
+DTEND;TZID=America/Vancouver:20151231T210000
+STATUS:CONFIRMED
+SUMMARY:Startup Drinks Vancouver
+DESCRIPTION:Startup drinks are a casual gathering at the end of each mont
+ h for anyone who's interested in startups. We meet at 131 Water in downt
+ own Vancouver and we chat about all things #startups...projects\, fundin
+ g\, challenges\, etc.\nThis is a great opportunity to connect with other
+ s in the community and a great way to connect on a regular basis.\nSee y
+ ou there :)
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20120907T191507Z
+LAST-MODIFIED:20130806T050333Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/qbshkdytqbpc/
+ 
+UID:event_qbshkdytqbpc@meetup.com
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20160105T080000
+DTEND;TZID=America/Vancouver:20160105T093000
+STATUS:CONFIRMED
+SUMMARY:Open Coffee
+DESCRIPTION:Open Coffee Club is a casual gathering of people involved/int
+ erested in founding\, operating or funding startups. The format is simil
+ ar to Startup Drinks\, but in the morning and with coffee.  The vibe is 
+ more hangout than event and provides people with a regular time and loca
+ tion to talk shop\, discuss news\, ask questions and and meet others in 
+ the startup community they may only see occasionally at more formal even
+ ts.  We're meeting 8:00 - 9:30 am on alternating Tuesdays at Nelson the 
+ Seagull\, 315 Carrall St\, Gastown.  For more information and background
+ \, please see the Open Coffee Club post on the Pixel Crafters website.  
+ See you there!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20131217T175044Z
+LAST-MODIFIED:20150131T020351Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/221427186/
+UID:event_qhwqhhyvcbhb@meetup.com
+LOCATION:Nelson the Seagull (315 Carrall Street\, Vancouver\, BC\, Canada
+ )
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20160119T080000
+DTEND;TZID=America/Vancouver:20160119T093000
+STATUS:CONFIRMED
+SUMMARY:Open Coffee
+DESCRIPTION:Open Coffee Club is a casual gathering of people involved/int
+ erested in founding\, operating or funding startups. The format is simil
+ ar to Startup Drinks\, but in the morning and with coffee.\nThe vibe is 
+ more hangout than event and provides people with a regular time and loca
+ tion to talk shop\, discuss news\, ask questions and and meet others in 
+ the startup community they may only see occasionally at more formal even
+ ts.\nWe're meeting 8:00 - 9:30 am on alternating Tuesdays at Nelson the 
+ Seagull\, 315 Carrall St\, Gastown.\nFor more information and background
+ \, please see the Open Coffee Club post on the Pixel Crafters website.\n
+ See you there!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20131217T175044Z
+LAST-MODIFIED:20150131T020351Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/qhwqhhyvcbzb/
+ 
+UID:event_qhwqhhyvcbzb@meetup.com
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20160128T180000
+DTEND;TZID=America/Vancouver:20160128T210000
+STATUS:CONFIRMED
+SUMMARY:Startup Drinks Vancouver
+DESCRIPTION:Startup drinks are a casual gathering at the end of each mont
+ h for anyone who's interested in startups. We meet at 131 Water in downt
+ own Vancouver and we chat about all things #startups...projects\, fundin
+ g\, challenges\, etc.\nThis is a great opportunity to connect with other
+ s in the community and a great way to connect on a regular basis.\nSee y
+ ou there :)
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20120907T191507Z
+LAST-MODIFIED:20130806T050333Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/qbshkdyvcblc/
+ 
+UID:event_qbshkdyvcblc@meetup.com
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20160202T080000
+DTEND;TZID=America/Vancouver:20160202T093000
+STATUS:CONFIRMED
+SUMMARY:Open Coffee
+DESCRIPTION:Open Coffee Club is a casual gathering of people involved/int
+ erested in founding\, operating or funding startups. The format is simil
+ ar to Startup Drinks\, but in the morning and with coffee.\nThe vibe is 
+ more hangout than event and provides people with a regular time and loca
+ tion to talk shop\, discuss news\, ask questions and and meet others in 
+ the startup community they may only see occasionally at more formal even
+ ts.\nWe're meeting 8:00 - 9:30 am on alternating Tuesdays at Nelson the 
+ Seagull\, 315 Carrall St\, Gastown.\nFor more information and background
+ \, please see the Open Coffee Club post on the Pixel Crafters website.\n
+ See you there!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20131217T175044Z
+LAST-MODIFIED:20150131T020351Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/qhwqhhyvdbdb/
+ 
+UID:event_qhwqhhyvdbdb@meetup.com
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T021620Z
+DTSTART;TZID=America/Vancouver:20160225T180000
+DTEND;TZID=America/Vancouver:20160225T210000
+STATUS:CONFIRMED
+SUMMARY:Startup Drinks Vancouver
+DESCRIPTION:Startup drinks are a casual gathering at the end of each mont
+ h for anyone who's interested in startups. We meet at 131 Water in downt
+ own Vancouver and we chat about all things #startups...projects\, fundin
+ g\, challenges\, etc.\nThis is a great opportunity to connect with other
+ s in the community and a great way to connect on a regular basis.\nSee y
+ ou there :)
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20120907T191507Z
+LAST-MODIFIED:20130806T050333Z
+URL:http://www.meetup.com/Vancouver-Tech-Co-Founders/events/qbshkdyvdbhc/
+ 
+UID:event_qbshkdyvdbhc@meetup.com
+CATEGORIES:Entrepreneurship,Technology,Startup Businesses,Internet Startu
+ ps,Web Technology,New Technology,Software Development,Geek Culture
+END:VEVENT
+END:VCALENDAR
