@@ -1,0 +1,438 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//API//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:/vancouver-ruby/upcoming.ical/
+X-WR-CALNAME:Upcoming in Vancouver Ruby Meetup Group
+BEGIN:VTIMEZONE
+TZID:America/Vancouver
+X-LIC-LOCATION:America/Vancouver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20150924T022317Z
+DTSTART;TZID=America/Vancouver:20150929T180000
+DTEND;TZID=America/Vancouver:20150929T210000
+STATUS:CONFIRMED
+SUMMARY:#VANRUBY Developer Night
+DESCRIPTION:#VANRUBY developer nights  Every week on Tuesday we get toget
+ her to hack on cool stuff.  ** Remember this is not a talk event but a n
+ ight for like minded developers to code\, work or discuss their projects
+  ** (we've had some people turn up without their laptop).  • Got a probl
+ em that you keep running into?  • Maybe it's time to fix that for everyo
+ ne!  • Wish the Gem you use at work comes with better documentation?  • 
+ Have a cool idea for a new project?  • Want to contribute to open source
+  but looking for some pointers on where to start?    Bring a your laptop
+  and code away on any of the above or anything else related to software 
+ development and ruby!  The format is very relaxed. Drop by when you can 
+ & leave when you want. We hold an informal standup at 6:30 for people to
+  share what they are working on or would like to do that evening.  Rails
+  helpdesk - members of our community on rotation will be running a Rails
+  helpdesk in the corner of our venue space. We'll be there to answer you
+ r questions\, problems with gems\, bugs\, etc. (Remember though we aren'
+ t going to build your next startup!) Recruiters - these nights are inten
+ ded to be a comfortable environment where attendees can work on and disc
+ uss software with their peers. We do not welcome recruiters. You will be
+  asked to leave if you arrive with this intention.  Let's work on making
+  the world a better place\, one hack night at a time\, and have fun whil
+ e doing it! See you there.
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150413T172834Z
+LAST-MODIFIED:20150817T202803Z
+URL:http://www.meetup.com/vancouver-ruby/events/225474718/
+UID:event_nkwnglytmbmc@meetup.com
+LOCATION:CodeCore (142 W Hastings St\, Vancouver\, BC\, Vancouver\, BC\, 
+ Canada)
+CATEGORIES:Ruby,Software Development,Ruby On Rails,Computer programming,W
+ eb Development
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T022317Z
+DTSTART;TZID=America/Vancouver:20151006T180000
+DTEND;TZID=America/Vancouver:20151006T210000
+STATUS:CONFIRMED
+SUMMARY:#VANRUBY Developer Night
+DESCRIPTION:#VANRUBY developer nights\nEvery week on Tuesday we get toget
+ her to hack on cool stuff.\n** Remember this is not a talk event but a n
+ ight for like minded developers to code\, work or discuss their projects
+  ** (we've had some people turn up without their laptop).\n• Got a probl
+ em that you keep running into?\n• Maybe it's time to fix that for everyo
+ ne!\n• Wish the Gem you use at work comes with better documentation?\n• 
+ Have a cool idea for a new project?\n• Want to contribute to open source
+  but looking for some pointers on where to start?\nBring a your laptop a
+ nd code away on any of the above or anything else related to software de
+ velopment and ruby!\nThe format is very relaxed. Drop by when you can & 
+ leave when you want. We hold an informal standup at 6:30 for people to s
+ hare what they are working on or would like to do that evening.\nRails h
+ elpdesk - members of our community on rotation will be running a Rails h
+ elpdesk in the corner of our venue space. We'll be there to answer your 
+ questions\, problems with gems\, bugs\, etc. (Remember though we aren't 
+ going to build your next startup!)\nRecruiters - these nights are intend
+ ed to be a comfortable environment where attendees can work on and discu
+ ss software with their peers. We do not welcome recruiters. You will be 
+ asked to leave if you arrive with this intention.\nLet's work on making 
+ the world a better place\, one hack night at a time\, and have fun while
+  doing it! See you there.
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150413T172834Z
+LAST-MODIFIED:20150817T202803Z
+URL:http://www.meetup.com/vancouver-ruby/events/nkwnglytnbjb/
+UID:event_nkwnglytnbjb@meetup.com
+CATEGORIES:Ruby,Software Development,Ruby On Rails,Computer programming,W
+ eb Development
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T022317Z
+DTSTART;TZID=America/Vancouver:20151013T180000
+DTEND;TZID=America/Vancouver:20151013T210000
+STATUS:CONFIRMED
+SUMMARY:#VANRUBY Developer Night
+DESCRIPTION:#VANRUBY developer nights\nEvery week on Tuesday we get toget
+ her to hack on cool stuff.\n** Remember this is not a talk event but a n
+ ight for like minded developers to code\, work or discuss their projects
+  ** (we've had some people turn up without their laptop).\n• Got a probl
+ em that you keep running into?\n• Maybe it's time to fix that for everyo
+ ne!\n• Wish the Gem you use at work comes with better documentation?\n• 
+ Have a cool idea for a new project?\n• Want to contribute to open source
+  but looking for some pointers on where to start?\nBring a your laptop a
+ nd code away on any of the above or anything else related to software de
+ velopment and ruby!\nThe format is very relaxed. Drop by when you can & 
+ leave when you want. We hold an informal standup at 6:30 for people to s
+ hare what they are working on or would like to do that evening.\nRails h
+ elpdesk - members of our community on rotation will be running a Rails h
+ elpdesk in the corner of our venue space. We'll be there to answer your 
+ questions\, problems with gems\, bugs\, etc. (Remember though we aren't 
+ going to build your next startup!)\nRecruiters - these nights are intend
+ ed to be a comfortable environment where attendees can work on and discu
+ ss software with their peers. We do not welcome recruiters. You will be 
+ asked to leave if you arrive with this intention.\nLet's work on making 
+ the world a better place\, one hack night at a time\, and have fun while
+  doing it! See you there.
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150413T172834Z
+LAST-MODIFIED:20150817T202803Z
+URL:http://www.meetup.com/vancouver-ruby/events/nkwnglytnbrb/
+UID:event_nkwnglytnbrb@meetup.com
+CATEGORIES:Ruby,Software Development,Ruby On Rails,Computer programming,W
+ eb Development
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T022317Z
+DTSTART;TZID=America/Vancouver:20151020T180000
+DTEND;TZID=America/Vancouver:20151020T210000
+STATUS:CONFIRMED
+SUMMARY:#VANRUBY Developer Night
+DESCRIPTION:#VANRUBY developer nights\nEvery week on Tuesday we get toget
+ her to hack on cool stuff.\n** Remember this is not a talk event but a n
+ ight for like minded developers to code\, work or discuss their projects
+  ** (we've had some people turn up without their laptop).\n• Got a probl
+ em that you keep running into?\n• Maybe it's time to fix that for everyo
+ ne!\n• Wish the Gem you use at work comes with better documentation?\n• 
+ Have a cool idea for a new project?\n• Want to contribute to open source
+  but looking for some pointers on where to start?\nBring a your laptop a
+ nd code away on any of the above or anything else related to software de
+ velopment and ruby!\nThe format is very relaxed. Drop by when you can & 
+ leave when you want. We hold an informal standup at 6:30 for people to s
+ hare what they are working on or would like to do that evening.\nRails h
+ elpdesk - members of our community on rotation will be running a Rails h
+ elpdesk in the corner of our venue space. We'll be there to answer your 
+ questions\, problems with gems\, bugs\, etc. (Remember though we aren't 
+ going to build your next startup!)\nRecruiters - these nights are intend
+ ed to be a comfortable environment where attendees can work on and discu
+ ss software with their peers. We do not welcome recruiters. You will be 
+ asked to leave if you arrive with this intention.\nLet's work on making 
+ the world a better place\, one hack night at a time\, and have fun while
+  doing it! See you there.
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150413T172834Z
+LAST-MODIFIED:20150817T202803Z
+URL:http://www.meetup.com/vancouver-ruby/events/nkwnglytnbbc/
+UID:event_nkwnglytnbbc@meetup.com
+CATEGORIES:Ruby,Software Development,Ruby On Rails,Computer programming,W
+ eb Development
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T022317Z
+DTSTART;TZID=America/Vancouver:20151027T180000
+DTEND;TZID=America/Vancouver:20151027T210000
+STATUS:CONFIRMED
+SUMMARY:#VANRUBY Developer Night
+DESCRIPTION:#VANRUBY developer nights\nEvery week on Tuesday we get toget
+ her to hack on cool stuff.\n** Remember this is not a talk event but a n
+ ight for like minded developers to code\, work or discuss their projects
+  ** (we've had some people turn up without their laptop).\n• Got a probl
+ em that you keep running into?\n• Maybe it's time to fix that for everyo
+ ne!\n• Wish the Gem you use at work comes with better documentation?\n• 
+ Have a cool idea for a new project?\n• Want to contribute to open source
+  but looking for some pointers on where to start?\nBring a your laptop a
+ nd code away on any of the above or anything else related to software de
+ velopment and ruby!\nThe format is very relaxed. Drop by when you can & 
+ leave when you want. We hold an informal standup at 6:30 for people to s
+ hare what they are working on or would like to do that evening.\nRails h
+ elpdesk - members of our community on rotation will be running a Rails h
+ elpdesk in the corner of our venue space. We'll be there to answer your 
+ questions\, problems with gems\, bugs\, etc. (Remember though we aren't 
+ going to build your next startup!)\nRecruiters - these nights are intend
+ ed to be a comfortable environment where attendees can work on and discu
+ ss software with their peers. We do not welcome recruiters. You will be 
+ asked to leave if you arrive with this intention.\nLet's work on making 
+ the world a better place\, one hack night at a time\, and have fun while
+  doing it! See you there.
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150413T172834Z
+LAST-MODIFIED:20150817T202803Z
+URL:http://www.meetup.com/vancouver-ruby/events/nkwnglytnbkc/
+UID:event_nkwnglytnbkc@meetup.com
+CATEGORIES:Ruby,Software Development,Ruby On Rails,Computer programming,W
+ eb Development
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T022317Z
+DTSTART;TZID=America/Vancouver:20151103T180000
+DTEND;TZID=America/Vancouver:20151103T210000
+STATUS:CONFIRMED
+SUMMARY:#VANRUBY Developer Night
+DESCRIPTION:#VANRUBY developer nights\nEvery week on Tuesday we get toget
+ her to hack on cool stuff.\n** Remember this is not a talk event but a n
+ ight for like minded developers to code\, work or discuss their projects
+  ** (we've had some people turn up without their laptop).\n• Got a probl
+ em that you keep running into?\n• Maybe it's time to fix that for everyo
+ ne!\n• Wish the Gem you use at work comes with better documentation?\n• 
+ Have a cool idea for a new project?\n• Want to contribute to open source
+  but looking for some pointers on where to start?\nBring a your laptop a
+ nd code away on any of the above or anything else related to software de
+ velopment and ruby!\nThe format is very relaxed. Drop by when you can & 
+ leave when you want. We hold an informal standup at 6:30 for people to s
+ hare what they are working on or would like to do that evening.\nRails h
+ elpdesk - members of our community on rotation will be running a Rails h
+ elpdesk in the corner of our venue space. We'll be there to answer your 
+ questions\, problems with gems\, bugs\, etc. (Remember though we aren't 
+ going to build your next startup!)\nRecruiters - these nights are intend
+ ed to be a comfortable environment where attendees can work on and discu
+ ss software with their peers. We do not welcome recruiters. You will be 
+ asked to leave if you arrive with this intention.\nLet's work on making 
+ the world a better place\, one hack night at a time\, and have fun while
+  doing it! See you there.
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150413T172834Z
+LAST-MODIFIED:20150817T202803Z
+URL:http://www.meetup.com/vancouver-ruby/events/nkwnglytpbfb/
+UID:event_nkwnglytpbfb@meetup.com
+CATEGORIES:Ruby,Software Development,Ruby On Rails,Computer programming,W
+ eb Development
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T022317Z
+DTSTART;TZID=America/Vancouver:20151110T180000
+DTEND;TZID=America/Vancouver:20151110T210000
+STATUS:CONFIRMED
+SUMMARY:#VANRUBY Developer Night
+DESCRIPTION:#VANRUBY developer nights\nEvery week on Tuesday we get toget
+ her to hack on cool stuff.\n** Remember this is not a talk event but a n
+ ight for like minded developers to code\, work or discuss their projects
+  ** (we've had some people turn up without their laptop).\n• Got a probl
+ em that you keep running into?\n• Maybe it's time to fix that for everyo
+ ne!\n• Wish the Gem you use at work comes with better documentation?\n• 
+ Have a cool idea for a new project?\n• Want to contribute to open source
+  but looking for some pointers on where to start?\nBring a your laptop a
+ nd code away on any of the above or anything else related to software de
+ velopment and ruby!\nThe format is very relaxed. Drop by when you can & 
+ leave when you want. We hold an informal standup at 6:30 for people to s
+ hare what they are working on or would like to do that evening.\nRails h
+ elpdesk - members of our community on rotation will be running a Rails h
+ elpdesk in the corner of our venue space. We'll be there to answer your 
+ questions\, problems with gems\, bugs\, etc. (Remember though we aren't 
+ going to build your next startup!)\nRecruiters - these nights are intend
+ ed to be a comfortable environment where attendees can work on and discu
+ ss software with their peers. We do not welcome recruiters. You will be 
+ asked to leave if you arrive with this intention.\nLet's work on making 
+ the world a better place\, one hack night at a time\, and have fun while
+  doing it! See you there.
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150413T172834Z
+LAST-MODIFIED:20150817T202803Z
+URL:http://www.meetup.com/vancouver-ruby/events/nkwnglytpbnb/
+UID:event_nkwnglytpbnb@meetup.com
+CATEGORIES:Ruby,Software Development,Ruby On Rails,Computer programming,W
+ eb Development
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T022317Z
+DTSTART;TZID=America/Vancouver:20151117T180000
+DTEND;TZID=America/Vancouver:20151117T210000
+STATUS:CONFIRMED
+SUMMARY:#VANRUBY Developer Night
+DESCRIPTION:#VANRUBY developer nights\nEvery week on Tuesday we get toget
+ her to hack on cool stuff.\n** Remember this is not a talk event but a n
+ ight for like minded developers to code\, work or discuss their projects
+  ** (we've had some people turn up without their laptop).\n• Got a probl
+ em that you keep running into?\n• Maybe it's time to fix that for everyo
+ ne!\n• Wish the Gem you use at work comes with better documentation?\n• 
+ Have a cool idea for a new project?\n• Want to contribute to open source
+  but looking for some pointers on where to start?\nBring a your laptop a
+ nd code away on any of the above or anything else related to software de
+ velopment and ruby!\nThe format is very relaxed. Drop by when you can & 
+ leave when you want. We hold an informal standup at 6:30 for people to s
+ hare what they are working on or would like to do that evening.\nRails h
+ elpdesk - members of our community on rotation will be running a Rails h
+ elpdesk in the corner of our venue space. We'll be there to answer your 
+ questions\, problems with gems\, bugs\, etc. (Remember though we aren't 
+ going to build your next startup!)\nRecruiters - these nights are intend
+ ed to be a comfortable environment where attendees can work on and discu
+ ss software with their peers. We do not welcome recruiters. You will be 
+ asked to leave if you arrive with this intention.\nLet's work on making 
+ the world a better place\, one hack night at a time\, and have fun while
+  doing it! See you there.
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150413T172834Z
+LAST-MODIFIED:20150817T202803Z
+URL:http://www.meetup.com/vancouver-ruby/events/nkwnglytpbwb/
+UID:event_nkwnglytpbwb@meetup.com
+CATEGORIES:Ruby,Software Development,Ruby On Rails,Computer programming,W
+ eb Development
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T022317Z
+DTSTART;TZID=America/Vancouver:20151124T180000
+DTEND;TZID=America/Vancouver:20151124T210000
+STATUS:CONFIRMED
+SUMMARY:#VANRUBY Developer Night
+DESCRIPTION:#VANRUBY developer nights\nEvery week on Tuesday we get toget
+ her to hack on cool stuff.\n** Remember this is not a talk event but a n
+ ight for like minded developers to code\, work or discuss their projects
+  ** (we've had some people turn up without their laptop).\n• Got a probl
+ em that you keep running into?\n• Maybe it's time to fix that for everyo
+ ne!\n• Wish the Gem you use at work comes with better documentation?\n• 
+ Have a cool idea for a new project?\n• Want to contribute to open source
+  but looking for some pointers on where to start?\nBring a your laptop a
+ nd code away on any of the above or anything else related to software de
+ velopment and ruby!\nThe format is very relaxed. Drop by when you can & 
+ leave when you want. We hold an informal standup at 6:30 for people to s
+ hare what they are working on or would like to do that evening.\nRails h
+ elpdesk - members of our community on rotation will be running a Rails h
+ elpdesk in the corner of our venue space. We'll be there to answer your 
+ questions\, problems with gems\, bugs\, etc. (Remember though we aren't 
+ going to build your next startup!)\nRecruiters - these nights are intend
+ ed to be a comfortable environment where attendees can work on and discu
+ ss software with their peers. We do not welcome recruiters. You will be 
+ asked to leave if you arrive with this intention.\nLet's work on making 
+ the world a better place\, one hack night at a time\, and have fun while
+  doing it! See you there.
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150413T172834Z
+LAST-MODIFIED:20150817T202803Z
+URL:http://www.meetup.com/vancouver-ruby/events/nkwnglytpbgc/
+UID:event_nkwnglytpbgc@meetup.com
+CATEGORIES:Ruby,Software Development,Ruby On Rails,Computer programming,W
+ eb Development
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T022317Z
+DTSTART;TZID=America/Vancouver:20151201T180000
+DTEND;TZID=America/Vancouver:20151201T210000
+STATUS:CONFIRMED
+SUMMARY:#VANRUBY Developer Night
+DESCRIPTION:#VANRUBY developer nights\nEvery week on Tuesday we get toget
+ her to hack on cool stuff.\n** Remember this is not a talk event but a n
+ ight for like minded developers to code\, work or discuss their projects
+  ** (we've had some people turn up without their laptop).\n• Got a probl
+ em that you keep running into?\n• Maybe it's time to fix that for everyo
+ ne!\n• Wish the Gem you use at work comes with better documentation?\n• 
+ Have a cool idea for a new project?\n• Want to contribute to open source
+  but looking for some pointers on where to start?\nBring a your laptop a
+ nd code away on any of the above or anything else related to software de
+ velopment and ruby!\nThe format is very relaxed. Drop by when you can & 
+ leave when you want. We hold an informal standup at 6:30 for people to s
+ hare what they are working on or would like to do that evening.\nRails h
+ elpdesk - members of our community on rotation will be running a Rails h
+ elpdesk in the corner of our venue space. We'll be there to answer your 
+ questions\, problems with gems\, bugs\, etc. (Remember though we aren't 
+ going to build your next startup!)\nRecruiters - these nights are intend
+ ed to be a comfortable environment where attendees can work on and discu
+ ss software with their peers. We do not welcome recruiters. You will be 
+ asked to leave if you arrive with this intention.\nLet's work on making 
+ the world a better place\, one hack night at a time\, and have fun while
+  doing it! See you there.
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150413T172834Z
+LAST-MODIFIED:20150817T202803Z
+URL:http://www.meetup.com/vancouver-ruby/events/nkwnglytqbcb/
+UID:event_nkwnglytqbcb@meetup.com
+CATEGORIES:Ruby,Software Development,Ruby On Rails,Computer programming,W
+ eb Development
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T022317Z
+DTSTART;TZID=America/Vancouver:20160126T180000
+DTEND;TZID=America/Vancouver:20160126T210000
+STATUS:CONFIRMED
+SUMMARY:#VANRUBY Developer Night
+DESCRIPTION:#VANRUBY developer nights  Every week on Tuesday we get toget
+ her to hack on cool stuff.  ** Remember this is not a talk event but a n
+ ight for like minded developers to code\, work or discuss their projects
+  ** (we've had some people turn up without their laptop).  • Got a probl
+ em that you keep running into?  • Maybe it's time to fix that for everyo
+ ne!  • Wish the Gem you use at work comes with better documentation?  • 
+ Have a cool idea for a new project?  • Want to contribute to open source
+  but looking for some pointers on where to start?    Bring a your laptop
+  and code away on any of the above or anything else related to software 
+ development and ruby!  The format is very relaxed. Drop by when you can 
+ & leave when you want. We hold an informal standup at 6:30 for people to
+  share what they are working on or would like to do that evening.  Rails
+  helpdesk - members of our community on rotation will be running a Rails
+  helpdesk in the corner of our venue space. We'll be there to answer you
+ r questions\, problems with gems\, bugs\, etc. (Remember though we aren'
+ t going to build your next startup!) Recruiters - these nights are inten
+ ded to be a comfortable environment where attendees can work on and disc
+ uss software with their peers. We do not welcome recruiters. You will be
+  asked to leave if you arrive with this intention.  Let's work on making
+  the world a better place\, one hack night at a time\, and have fun whil
+ e doing it! See you there.
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150413T172834Z
+LAST-MODIFIED:20150817T202803Z
+URL:http://www.meetup.com/vancouver-ruby/events/222392100/
+UID:event_nkwnglyvcbjc@meetup.com
+LOCATION:CodeCore (142 W Hastings St\, Vancouver\, BC\, Vancouver\, BC\, 
+ Canada)
+CATEGORIES:Ruby,Software Development,Ruby On Rails,Computer programming,W
+ eb Development
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//API//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:/BC-Tech-Jobs-Career-Network/upcoming.ical/
+X-WR-CALNAME:Upcoming in BC Tech Jobs Career Network
+BEGIN:VTIMEZONE
+TZID:America/Vancouver
+X-LIC-LOCATION:America/Vancouver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20150924T023830Z
+DTSTART;TZID=America/Vancouver:20151006T170000
+DTEND;TZID=America/Vancouver:20151006T200000
+STATUS:CONFIRMED
+SUMMARY:Software Developers - Speed Interview Night
+DESCRIPTION:Talent Connection Day - Software Developers  Hello group memb
+ ers!   The BC Technology Industry Association is hosting an invitation-o
+ nly event where qualified developers are invited to meet top-notch tech 
+ companies on a 1 to 1 setting. You will get a chance to individually mee
+ t 10 to 15 hiring managers who are looking for star developers right now
+ \, talk about your skills and hear about their opportunities. You will t
+ hen have a chance to network with all company representatives over snack
+ s and beverages in a casual setting. Please DO NOT RSVP for this event t
+ hrough meetup.   To register\, please Apply Here.  Good luck everyone!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.12
+CREATED:20150918T145238Z
+LAST-MODIFIED:20150918T161912Z
+URL:http://www.meetup.com/BC-Tech-Jobs-Career-Network/events/225445854/
+UID:event_225445854@meetup.com
+LOCATION:BCTIA Innovation Hub (887 Great Northern Way\, Vancouver\, BC\, 
+ Canada)
+CATEGORIES:Software Development,Professional Development,Career Network,W
+ eb Development,Professional Networking,Networking for Job Seekers,Recrui
+ ting,Recruiting and Hiring,Computer programming,Technical Recruiting,Net
+ working with HR Professionals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T023830Z
+DTSTART;TZID=America/Vancouver:20151117T170000
+DTEND;TZID=America/Vancouver:20151117T193000
+STATUS:CONFIRMED
+SUMMARY:How tech companies hire for sales
+DESCRIPTION:Get the inside scoop on what tech companies are looking for! 
+ In this session you'll hear from the sales management teams at local tec
+ h companies to learn more about the skills and attributes they value whe
+ n hiring for sales. We'll also feature a promising tech startup that is 
+ hiring salespeople to expand their rapidly growing company.
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.12
+CREATED:20150826T153337Z
+LAST-MODIFIED:20150826T231401Z
+URL:http://www.meetup.com/BC-Tech-Jobs-Career-Network/events/224900241/
+UID:event_224900241@meetup.com
+LOCATION:The BCTIA Innovation Hub (Suite 101 - 887 Great Northern Way\, V
+ ancouver\, BC\, Canada V5T 4T5)
+CATEGORIES:Software Development,Professional Development,Career Network,W
+ eb Development,Professional Networking,Networking for Job Seekers,Recrui
+ ting,Recruiting and Hiring,Computer programming,Technical Recruiting,Net
+ working with HR Professionals
+SEQUENCE:4
+END:VEVENT
+END:VCALENDAR

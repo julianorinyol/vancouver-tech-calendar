@@ -1,0 +1,8 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//API//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:/vancouver-javascript-developers/upcoming.ical/
+X-WR-CALNAME:Upcoming in VanJS: Vancouver Javascript Developers
+END:VCALENDAR

@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//API//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:/VanDev/upcoming.ical/
+X-WR-CALNAME:Upcoming in VanDev: Vancouver's Software Developers Network
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:America/Vancouver
+X-LIC-LOCATION:America/Vancouver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20150924T024353Z
+DTSTART;TZID=America/Vancouver:20150925T184500
+DTEND;TZID=America/Vancouver:20150925T213000
+STATUS:CONFIRMED
+SUMMARY:Principles of Product Development Flow: Part 8 (Using Fast Feedba
+ ck)
+DESCRIPTION:Cliff will be talking about The Principles of Product Develop
+ ment Flow. (You do not have to read the book to attend\, or have attende
+ d the previous session\; if you are interested at all please come.)  Thi
+ s session will look at chapter eight\; Using Fast Feedback. Part 1 Slide
+ s: http://files.meetup.com/144695/PoPDD%20Part%201.pdf  Part 2 Slides: h
+ ttp://files.meetup.com/144695/PoPDD%20Part%202.pdf  Part 3 Slides: http:
+ //files.meetup.com/144695/PoPDD%20Part%203.pdf. Part 4 Slides: http://fi
+ les.meetup.com/144695/PoPDD%20Part%204.pdf.   Part 5 Slides: coming soon
+ .  Part 6 Slides: coming soon. Part 7 Slides: coming soon.  The usual ne
+ tworking session will follow after the talk.   There will also be a draw
+  for a JetBrains product license.   Note: We are in normally in C550\, b
+ ut sometimes in C440.  Note: Posting job postings in comments will now g
+ et you kicked out of the group. Comments are *not* for job spam.
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.12
+CREATED:20150921T005321Z
+LAST-MODIFIED:20150921T005321Z
+URL:http://www.meetup.com/VanDev/events/225499123/
+UID:event_225499123@meetup.com
+LOCATION:UBC Robson Square C550 (800 Robson Street\, Vancouver\, BC\, Can
+ ada V6Z 3B7)
+CATEGORIES:Professional Networking,Computer programming,Open Source,Agile
+  Project Management,JavaScript,Social,PHP,C#,Software Development,Java,.
+ NET,Social Software,Ruby,Python,Programming Languages
+SEQUENCE:1
+END:VEVENT
+END:VCALENDAR

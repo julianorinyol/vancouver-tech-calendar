@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//API//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:/HackerNestVAN/upcoming.ical/
+X-WR-CALNAME:Upcoming in HackerNest Vancouver Tech Socials
+BEGIN:VTIMEZONE
+TZID:America/Vancouver
+X-LIC-LOCATION:America/Vancouver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20150924T023924Z
+DTSTART;TZID=America/Vancouver:20150928T200000
+DTEND;TZID=America/Vancouver:20150928T230000
+STATUS:CONFIRMED
+SUMMARY:HackerNest Vancouver September Tech Social
+DESCRIPTION:Drinks on us. HackerNest Tech Socials are a fun\, relaxed way
+  to connect with your local tech brethren. Atmosphere: chill\, friendly\
+ , unpretentious\, agenda-free (no sales pitch\, yo)\, and brimming with 
+ UltraSmart(TM) people.  Follow us on Twitter\, like us on Facebook\, hi-
+ 5 us in person. :)  *************************************  Special Annou
+ ncement:  Introducing DementiaHack\, the world’s foremost dementia-theme
+ d hackathon\, happening in Toronto\, Nov 7-9\, 2015. Now open - apply to
+  participate! http://hckrn.st/DementiaHack  ****************************
+ *********   The typical Tech Social schedule:  - 8:00pm: folks arrive\, 
+ grab drinks\, socialize  - 9:00pm: quick intro\, thank sponsors\, quick 
+ announcements  - 9:10pm: back to chatting with interesting new friends  
+ - finally go home exhausted from great conversations Sponsors make this 
+ growing movement possible - email us to chat!  Venue:    As Canada’s lar
+ gest technology incubation platform\, Istuary provides business and mark
+ eting support to commercialize promising innovation.  Wanna show off you
+ r office? We're always looking for big open spaces with 50+ (standing ro
+ om) capacity that are easily accessible.  About Us:  HackerNest is an in
+ ternational nonprofit uniting local tech communities through unpretentio
+ us Tech Socials and large cause hackathons. We cram lots of smart\, acco
+ mplished people into a room with free drinks. Our relaxed\, down-to-eart
+ h events attract a diverse and highly technical membership. Strict no-do
+ uchebag policy.
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.12
+CREATED:20150902T173640Z
+LAST-MODIFIED:20150914T171156Z
+URL:http://www.meetup.com/HackerNestVAN/events/225070458/
+UID:event_225070458@meetup.com
+LOCATION:iStuary (8th Floor\, 1125 Howe Street\, Vancouver\, BC\, Canada)
+ 
+CATEGORIES:Business Strategy,Software Development,Computer programming,Mo
+ bile Technology,UX / UI Design,Web Technology,Entrepreneurship,Women Ent
+ repreneurs,Technology Professionals,Technology,Education & Technology,We
+ b and Technology Startups,3D Printing
+SEQUENCE:7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T023924Z
+DTSTART;TZID=America/Vancouver:20151003T150000
+DTEND;TZID=America/Vancouver:20151003T183000
+STATUS:CONFIRMED
+SUMMARY:DementiaHack Toronto 2015 Workshop & Team Matching
+DESCRIPTION:**RSVP on hackernest.com/dementiahack**  Industry experts\, c
+ aregivers\, and people living with dementia share insights and experienc
+ es so you get a better\, more human understanding of their challenges. A
+  very cool\, very special guest may be video conferencing in. Casual soc
+ ializing follows.  Not registered for DementiaHack yet?    Calling all d
+ evelopers\, designers\, health professionals\, marketers\, entrepreneurs
+ \, and others motivated by the cause: hackernest.com/dementiahack   Chai
+ red by Jordan Banks\, presented by Facebook\, supported by the UK and Ca
+ nadian governments\, hosted at George Brown’s new Waterfront Campus\, an
+ d produced by HackerNest\, DementiaHack will not just raise awareness\, 
+ but also enable the development of life-improving products that’ll make 
+ the world a little lighter for those affected by dementia — today. Apply
+  ASAP so we can match you with mentors!   You want to win\, right? Fill 
+ out the easy form and we’ll connect you with the best mentor/potential c
+ ustomer ever to give you relevant feedback on your ideas. Don’t wait. Sc
+ hedules fill up fast. To participate in DementiaHack\, go here.  *******
+ *******************   47 million people live with dementia worldwide – 7
+ 50\,000 in Canada alone – with global numbers expected to reach 75 milli
+ on by 2030. Much effort goes towards the search for a cure that may be d
+ ecades away\, but millions today face overwhelming\, heartbreaking chall
+ enges daily. The point of DementiaHack is to create products that improv
+ e lives today.  **************************   To sponsor DementiaHack\, p
+ lease email dementiahack@hackernest.com.  For press and media inquiries\
+ , please email esther.buchsbaum@energipr.com.
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.12
+CREATED:20150915T164237Z
+LAST-MODIFIED:20150915T172419Z
+URL:http://www.meetup.com/HackerNestVAN/events/225372452/
+UID:event_225372452@meetup.com
+LOCATION:MaRS Room CR3 (101 College Street\, Toronto\, ON\, Canada)
+CATEGORIES:Business Strategy,Software Development,Computer programming,Mo
+ bile Technology,UX / UI Design,Web Technology,Entrepreneurship,Women Ent
+ repreneurs,Technology Professionals,Technology,Education & Technology,We
+ b and Technology Startups,3D Printing
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T023924Z
+DTSTART;TZID=America/Vancouver:20151026T200000
+DTEND;TZID=America/Vancouver:20151026T230000
+STATUS:CONFIRMED
+SUMMARY:HackerNest Vancouver OctoberTech Social
+DESCRIPTION:HackerNest Tech Socials are a fun\, relaxed way to connect wi
+ th your local tech brethren. Atmosphere: chill\, friendly\, unpretentiou
+ s\, agenda-free (no sales pitch\, yo)\, and brimming with UltraSmart(TM)
+  people. Follow us on Twitter\, like us on Facebook\, hi-5 us in person.
+  :) The typical Tech Social schedule: - 8:00pm: folks arrive\, grab drin
+ ks\, socialize - 9:00pm: quick intro\, thank sponsors\, quick announceme
+ nts - 9:10pm: back to chatting with interesting new friends - finally go
+  home exhausted from great conversations Sponsors make this growing move
+ ment possible - email us to chat! Venue:  Learn technology\, design and 
+ business skills\, in-person  Wanna show off your office? We're always lo
+ oking for big open spaces with 50+ (standing room) capacity that are eas
+ ily accessible. About Us: HackerNest is an international nonprofit uniti
+ ng local tech communities through unpretentious Tech Socials and large c
+ ause hackathons. We cram lots of smart\, accomplished people into a room
+  with free drinks. Our relaxed\, down-to-earth events attract a diverse 
+ and highly technical membership. Strict no-douchebag policy.
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.12
+CREATED:20150909T165318Z
+LAST-MODIFIED:20150914T164921Z
+URL:http://www.meetup.com/HackerNestVAN/events/225233294/
+UID:event_225233294@meetup.com
+LOCATION:BrainStation YVR (1110 Hamilton St\, 4th Floor\, Vancouver\, BC\
+ , Canada)
+CATEGORIES:Business Strategy,Software Development,Computer programming,Mo
+ bile Technology,UX / UI Design,Web Technology,Entrepreneurship,Women Ent
+ repreneurs,Technology Professionals,Technology,Education & Technology,We
+ b and Technology Startups,3D Printing
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T023924Z
+DTSTART;TZID=America/Vancouver:20151107T080000
+DTEND;TZID=America/Vancouver:20151109T220000
+STATUS:CONFIRMED
+SUMMARY:DementiaHack Toronto 2015 Hackathon
+DESCRIPTION:**RSVP on hackernest.com/dementiahack**   Calling all develop
+ ers\, designers\, health professionals\, marketers\, entrepreneurs\, and
+  others motivated by the cause: hackernest.com/dementiahack   Chaired by
+  Jordan Banks\, presented by Facebook\, supported by the UK and Canadian
+  governments\, hosted at George Brown’s new Waterfront Campus\, and prod
+ uced by HackerNest\, DementiaHack will not just raise awareness\, but al
+ so enable the development of life-improving products that’ll make the wo
+ rld a little lighter for those affected by dementia — today. Apply ASAP 
+ so we can match you with mentors!  You want to win\, right? Fill out the
+  easy form and we’ll connect you with the best mentor/potential customer
+  ever to give you relevant feedback on your ideas. Don’t wait. Schedules
+  fill up fast. To participate in DementiaHack\, go here.   *************
+ *************  47 million people live with dementia worldwide – 750\,000
+  in Canada alone – with global numbers expected to reach 75 million by 2
+ 030. Much effort goes towards the search for a cure that may be decades 
+ away\, but millions today face overwhelming\, heartbreaking challenges d
+ aily. The point of DementiaHack is to create products that improve lives
+  today. **************************  To sponsor DementiaHack\, please ema
+ il dementiahack@hackernest.com. For press and media inquiries\, please e
+ mail esther.buchsbaum@energipr.com. GENERAL SCHEDULE Sat\, Oct 3  |  3:0
+ 0pm – 6:30pm  “Voices from the Field” Workshop + Team Matching MaRS\, Ro
+ om CR3\, 101 College St\, Toronto Industry experts\, caregivers\, and pe
+ ople living with dementia share insights and experiences so you get a be
+ tter\, more human understanding of their challenges. A very cool\, very 
+ special guest may be video conferencing in. Casual socializing follows. 
+  Mon\, Oct 26  |  8:00pm – 11:00pm HackerNest Tech Social + Team Matchin
+ g Entertech Systems\, Suite 202\, 109 Atlantic Ave\, Toronto Our regular
+  Toronto Tech Social becomes a DementiaHack Team Matching event! Sat\, N
+ ov 7 - Sun\, Nov 8  |  Dementia Hackathon Weekend  George Brown College 
+ Waterfront Campus 51 Dockside Dr\, Toronto Mon\, Nov 9  |  7:30pm – 9:00
+ pm DementiaHack Finals George Brown College Waterfront Campus 51 Docksid
+ e Dr\, Toronto Finalists get a day to recuperate and polish their demos.
+  Potential investors\, acquirers\, and customers are invited to observe 
+ the crème de la crème of DementiaHack showcase their products to our pan
+ el of distinguished judges. Casual socializing follows.  PRIMER  We're b
+ ringing world-class developers\, engineers\, designers\, health professi
+ onals\, and other motivated individuals together November 7-9 to hack to
+ gether new products/services for people living with dementia and their c
+ aregivers. DementiaHack is chaired by Jordan Banks\, presented by Facebo
+ ok\, supported by the UK and Canadian governments\, hosted at George Bro
+ wn's new Waterfront Campus\, and produced by HackerNest. ‘Dementia’ desc
+ ribes various neurodegenerative conditions characterized by reduced cogn
+ itive function and memory loss. No treatment exists to cure or stop it. 
+ The World Health Organization estimates that 47+ million people live wit
+ h dementia worldwide (over 750\,000 in Canada)\, a number expected to in
+ crease to 75+ million by 2030. This poses a serious threat to the world’
+ s economies as the funds needed to care for the growing population of th
+ ose with dementia reaches epic proportions. Significant effort and fundi
+ ng goes towards the search for a cure\, but that may take years\, even d
+ ecades\, to come to fruition. Dementia can be overwhelming\; not only fo
+ r those diagnosed\, but also their families and caregivers. Today\, mill
+ ions of our rapidly aging populations and their loved ones face staggeri
+ ng\, often heartbreaking challenges in their daily lives with dementia. 
+ Our focus\, however\, isn’t pity: it’s practicality. We partnered with s
+ ome of the world’s leading dementia experts to distil relevant challenge
+  sets to guide participants towards the most impactful outcomes. These a
+ re ordered by beneficiary to clearly answer the question: “Who am I help
+ ing?” – and will be featured in the most perfect environment for demonst
+ rably effective innovations to emerge: DementiaHack. Our mission isn’t j
+ ust to raise awareness\, it’s to enable the development of life-improvin
+ g products that’ll make the world a little lighter for those affected by
+  dementia -- today.
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.12
+CREATED:20150915T165007Z
+LAST-MODIFIED:20150915T165140Z
+URL:http://www.meetup.com/HackerNestVAN/events/225372570/
+UID:event_225372570@meetup.com
+LOCATION:George Brown College Waterfront Campus (51 Dockside Drive\, Toro
+ nto\, ON\, Canada)
+CATEGORIES:Business Strategy,Software Development,Computer programming,Mo
+ bile Technology,UX / UI Design,Web Technology,Entrepreneurship,Women Ent
+ repreneurs,Technology Professionals,Technology,Education & Technology,We
+ b and Technology Startups,3D Printing
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T023924Z
+DTSTART;TZID=America/Vancouver:20151130T200000
+DTEND;TZID=America/Vancouver:20151130T230000
+STATUS:CONFIRMED
+SUMMARY:HackerNest Vancouver November Tech Social
+DESCRIPTION:HackerNest Tech Socials are a fun\, relaxed way to connect wi
+ th your local tech brethren. Atmosphere: chill\, friendly\, unpretentiou
+ s\, agenda-free (no sales pitch\, yo)\, and brimming with UltraSmart(TM)
+  people.  Follow us on Twitter\, like us on Facebook\, hi-5 us in person
+ . :)  The typical Tech Social schedule:  - 8:00pm: folks arrive\, grab d
+ rinks\, socialize - 9:00pm: quick intro\, thank sponsors\, quick announc
+ ements - 9:10pm: back to chatting with interesting new friends - finally
+  go home exhausted from great conversations  Sponsors make this growing 
+ movement possible - email us to chat!  Venue:                           
+              UncreditCard your Life!    Wanna show off your office? We'r
+ e always looking for big open spaces with 50+ (standing room) capacity t
+ hat are easily accessible.  About Us:  HackerNest is an international no
+ nprofit uniting local tech communities through unpretentious Tech Social
+ s and large cause hackathons. We cram lots of smart\, accomplished peopl
+ e into a room with free drinks. Our relaxed\, down-to-earth events attra
+ ct a diverse and highly technical membership. Strict no-douchebag policy
+ .
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.12
+CREATED:20150909T165509Z
+LAST-MODIFIED:20150914T170449Z
+URL:http://www.meetup.com/HackerNestVAN/events/225233328/
+UID:event_225233328@meetup.com
+LOCATION:Mogo (2100 401 West Georgia\, Vancouver\, BC\, Canada)
+CATEGORIES:Business Strategy,Software Development,Computer programming,Mo
+ bile Technology,UX / UI Design,Web Technology,Entrepreneurship,Women Ent
+ repreneurs,Technology Professionals,Technology,Education & Technology,We
+ b and Technology Startups,3D Printing
+END:VEVENT
+END:VCALENDAR

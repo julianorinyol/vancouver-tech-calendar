@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//API//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:/decentralvancouver/upcoming.ical/
+X-WR-CALNAME:Upcoming in Decentral Vancouver
+BEGIN:VTIMEZONE
+TZID:America/Vancouver
+X-LIC-LOCATION:America/Vancouver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20150924T024422Z
+DTSTART;TZID=America/Vancouver:20150924T190000
+DTEND;TZID=America/Vancouver:20150924T220000
+STATUS:CONFIRMED
+SUMMARY:This Thurs: The Second Cambrian Explosion\; Blockchain Philosophy
+  with Eris
+DESCRIPTION:Blockchain Philosophy In the land of open source software the
+ re a forks and knives at every turn. Some people have used the metaphor 
+ that Blockchain forks are like self replicating DNA\, evolving and mutat
+ ing to create more advanced forms of technology.       Zach Ramsay from 
+ Eris Industries is in town to talk Blockchain Philosophy. Eris is a bloc
+ kchain agnostic developer platform that leverages the tendermint proof-o
+ f-stake protocol and allows for customizeable\, permissioned (or not!) b
+ lockchains\, giving developers greater flexibility in implementing their
+  Dapps   Will there be one Blockchain to rule them all? (Bitcoin with Si
+ dechains) Or will external chains like Ethereum\, and Permissioned chain
+ s survive to create more efficient and cost effective forms of consensus
+ ?    Are you a Bitcoin Maximalist? or Blockchain Enthusiast? Come bat it
+  out this Thursday!  **FREE Beer will be provided!   Proudly Sponsored b
+ y:
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150923T051947Z
+LAST-MODIFIED:20150923T232640Z
+URL:http://www.meetup.com/decentralvancouver/events/225553250/
+UID:event_225553250@meetup.com
+LOCATION:Decentral Vancouver (436 West Pender Street\, Vancouver\, BC\, C
+ anada)
+CATEGORIES:Computer programming,Bitcoin,Community Building,Sustainability
+ ,Green Living,New Technology,Cryptography,Mesh Networks,Technology Start
+ ups,Decentralization,Digital Currency,Cryptocurrency,Software Developmen
+ t,Smart Contracts,Ethereum
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T024422Z
+DTSTART;TZID=America/Vancouver:20150929T190000
+DTEND;TZID=America/Vancouver:20150929T210000
+STATUS:CONFIRMED
+SUMMARY:Eris Install Party
+DESCRIPTION:Zach Ramsay from Eris Industries will be here in the flesh!  
+ Join Eris Industries and Decentral Vancouver for an Eris Install Party. 
+ Eris' recently launched command-line tool eris and an example Dapp will 
+ be demonstrated. Pizza\, beer and marmots all under one roof!  Installat
+ ion:Interested participants should attempt the installation process befo
+ rehand. Note: on hand support will be available for OSX and Linux but no
+ t Windows (hop on IRC #eris-dev for support).  Schedule• 7pm: Install\, 
+ Networking• 8pm: Brief Demo  All are welcome! Technical expertise not re
+ quired.  For those who can't make it out\, Zach will be working out of D
+ ecentral Vancouver during the last two weeks of September. Stop by anyti
+ me for a chat!   You'll also have the chance to meet:  3 Ethereans from 
+ "Vancouver Ethereum & Blockchain 2.0 Meetup"  6 Members from "Bitcoin Va
+ ncouver"  A total of 7 people are expected to attend!  Edit Linking
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.27;-123.11
+CREATED:20150915T222031Z
+LAST-MODIFIED:20150923T085927Z
+URL:http://www.meetup.com/decentralvancouver/events/225380354/
+UID:event_225380354@meetup.com
+LOCATION:decentral vancouver (436 W Pender St\, Vancouver\, BC\, Canada)
+CATEGORIES:Computer programming,Bitcoin,Community Building,Sustainability
+ ,Green Living,New Technology,Cryptography,Mesh Networks,Technology Start
+ ups,Decentralization,Digital Currency,Cryptocurrency,Software Developmen
+ t,Smart Contracts,Ethereum
+SEQUENCE:3
+END:VEVENT
+END:VCALENDAR

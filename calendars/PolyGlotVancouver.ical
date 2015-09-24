@@ -1,0 +1,390 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//API//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:/PolyglotVancouver/upcoming.ical/
+X-WR-CALNAME:Upcoming in PolyglotVancouver
+BEGIN:VTIMEZONE
+TZID:America/Vancouver
+X-LIC-LOCATION:America/Vancouver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20150924T024037Z
+DTSTART;TZID=America/Vancouver:20151006T180000
+DTEND;TZID=America/Vancouver:20151006T210000
+STATUS:CONFIRMED
+SUMMARY:Polyglot Social
+DESCRIPTION:Our monthly meetup for food\, possibly some drinks (no one wi
+ ll force you) and most definitely good conversations. We start gathering
+  around 6:00\, and the social peters out by 10:00. We're meeting in the 
+ spacious downstairs room of St Regis restaurant\, at the base of the St 
+ Regis hotel\, located kitty corner from the Railway Club.  How to Contac
+ t Us / Re Comments  Please note any comments you add to this event (belo
+ w) will be e-mailed to all members of the group. We're trying to avoid s
+ pamming the list\, so please do not use comments for jokes\, job posting
+ s\, requests for help programming something or anything else off topic. 
+ If you have questions or need to contact us\, use the 'contact us' link 
+ on the left. Thanks!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.25;-123.12
+CREATED:20140107T221317Z
+LAST-MODIFIED:20150407T213332Z
+URL:http://www.meetup.com/PolyglotVancouver/events/219649630/
+UID:event_rthmglytnbjb@meetup.com
+LOCATION:St Regis (608 Dunsmuir St\, Vancouver\, BC V6B 1Y6\, Vancouver\,
+  BC\, Canada)
+CATEGORIES:Computer programming,Software Engineering,Software Development
+ ,Web Development,Open Source,Cloud Computing,Professional Development,De
+ vOps,Data Management,Functional Programming
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T024037Z
+DTSTART;TZID=America/Vancouver:20151012T180000
+DTEND;TZID=America/Vancouver:20151012T210000
+STATUS:CONFIRMED
+SUMMARY:Hack/Study/Mentor Night
+DESCRIPTION:NB: this is a self-directed evening\, there will be no presen
+ tation\, or any structured activities provided.  Come and do one or more
+  of the following\, at the Mozilla offices (suite/buzzer 209) -- big tha
+ nks to Jeff Griffiths\, Ralph Giles\, and Mozilla!   • Help someone writ
+ e code  • Get help with code  • Write code yourself  • Form a study grou
+ p (coursera\, etc...)  Space is limited\, only RSVP if you're certain th
+ at you can make it.   Schedule  6:00 - Start  9:00 - End  How to Contact
+  Us / Re Comments  Please note any comments you add to this event (below
+ ) will be e-mailed to all members of the group. We're trying to avoid sp
+ amming the list\, so please do not use comments for jokes\, job postings
+ \, requests for help programming something or anything else off topic. I
+ f you have questions or need to contact us\, use the 'contact us' link o
+ n the left. Thanks!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.25;-123.12
+CREATED:20140204T202921Z
+LAST-MODIFIED:20150308T193224Z
+URL:http://www.meetup.com/PolyglotVancouver/events/219814360/
+UID:event_qlqkthytnbqb@meetup.com
+LOCATION:Mozilla YVR Offices (163 West Hastings Street\, Vancouver\, BC\,
+  Canada\, Vancouver\, BC\, Canada)
+CATEGORIES:Computer programming,Software Engineering,Software Development
+ ,Web Development,Open Source,Cloud Computing,Professional Development,De
+ vOps,Data Management,Functional Programming
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T024037Z
+DTSTART;TZID=America/Vancouver:20151103T180000
+DTEND;TZID=America/Vancouver:20151103T210000
+STATUS:CONFIRMED
+SUMMARY:Polyglot Social
+DESCRIPTION:Our monthly meetup for food\, possibly some drinks (no one wi
+ ll force you) and most definitely good conversations. We start gathering
+  around 6:00\, and the social peters out by 10:00. We're meeting in the 
+ spacious downstairs room of St Regis restaurant\, at the base of the St 
+ Regis hotel\, located kitty corner from the Railway Club.  How to Contac
+ t Us / Re Comments  Please note any comments you add to this event (belo
+ w) will be e-mailed to all members of the group. We're trying to avoid s
+ pamming the list\, so please do not use comments for jokes\, job posting
+ s\, requests for help programming something or anything else off topic. 
+ If you have questions or need to contact us\, use the 'contact us' link 
+ on the left. Thanks!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.25;-123.12
+CREATED:20140107T221317Z
+LAST-MODIFIED:20150407T213332Z
+URL:http://www.meetup.com/PolyglotVancouver/events/219649632/
+UID:event_rthmglytpbfb@meetup.com
+LOCATION:St Regis (608 Dunsmuir St\, Vancouver\, BC V6B 1Y6\, Vancouver\,
+  BC\, Canada)
+CATEGORIES:Computer programming,Software Engineering,Software Development
+ ,Web Development,Open Source,Cloud Computing,Professional Development,De
+ vOps,Data Management,Functional Programming
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T024037Z
+DTSTART;TZID=America/Vancouver:20151109T180000
+DTEND;TZID=America/Vancouver:20151109T210000
+STATUS:CONFIRMED
+SUMMARY:Hack/Study/Mentor Night
+DESCRIPTION:NB: this is a self-directed evening\, there will be no presen
+ tation\, or any structured activities provided.  Come and do one or more
+  of the following\, at the Mozilla offices (suite/buzzer 209) -- big tha
+ nks to Jeff Griffiths\, Ralph Giles\, and Mozilla!   • Help someone writ
+ e code  • Get help with code  • Write code yourself  • Form a study grou
+ p (coursera\, etc...)  Space is limited\, only RSVP if you're certain th
+ at you can make it.   Schedule  6:00 - Start  9:00 - End  How to Contact
+  Us / Re Comments  Please note any comments you add to this event (below
+ ) will be e-mailed to all members of the group. We're trying to avoid sp
+ amming the list\, so please do not use comments for jokes\, job postings
+ \, requests for help programming something or anything else off topic. I
+ f you have questions or need to contact us\, use the 'contact us' link o
+ n the left. Thanks!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.25;-123.12
+CREATED:20140204T202921Z
+LAST-MODIFIED:20150308T193224Z
+URL:http://www.meetup.com/PolyglotVancouver/events/219814366/
+UID:event_qlqkthytpbmb@meetup.com
+LOCATION:Mozilla YVR Offices (163 West Hastings Street\, Vancouver\, BC\,
+  Canada\, Vancouver\, BC\, Canada)
+CATEGORIES:Computer programming,Software Engineering,Software Development
+ ,Web Development,Open Source,Cloud Computing,Professional Development,De
+ vOps,Data Management,Functional Programming
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T024037Z
+DTSTART;TZID=America/Vancouver:20151201T180000
+DTEND;TZID=America/Vancouver:20151201T210000
+STATUS:CONFIRMED
+SUMMARY:Polyglot Social
+DESCRIPTION:Our monthly meetup for food\, possibly some drinks (no one wi
+ ll force you) and most definitely good conversations. We start gathering
+  around 6:00\, and the social peters out by 10:00. We're meeting in the 
+ spacious downstairs room of St Regis restaurant\, at the base of the St 
+ Regis hotel\, located kitty corner from the Railway Club.  How to Contac
+ t Us / Re Comments  Please note any comments you add to this event (belo
+ w) will be e-mailed to all members of the group. We're trying to avoid s
+ pamming the list\, so please do not use comments for jokes\, job posting
+ s\, requests for help programming something or anything else off topic. 
+ If you have questions or need to contact us\, use the 'contact us' link 
+ on the left. Thanks!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.25;-123.12
+CREATED:20140107T221317Z
+LAST-MODIFIED:20150407T213332Z
+URL:http://www.meetup.com/PolyglotVancouver/events/219649635/
+UID:event_rthmglytqbcb@meetup.com
+LOCATION:St Regis (608 Dunsmuir St\, Vancouver\, BC V6B 1Y6\, Vancouver\,
+  BC\, Canada)
+CATEGORIES:Computer programming,Software Engineering,Software Development
+ ,Web Development,Open Source,Cloud Computing,Professional Development,De
+ vOps,Data Management,Functional Programming
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T024037Z
+DTSTART;TZID=America/Vancouver:20151214T180000
+DTEND;TZID=America/Vancouver:20151214T210000
+STATUS:CONFIRMED
+SUMMARY:Hack/Study/Mentor Night
+DESCRIPTION:NB: this is a self-directed evening\, there will be no presen
+ tation\, or any structured activities provided.  Come and do one or more
+  of the following\, at the Mozilla offices (suite/buzzer 209) -- big tha
+ nks to Jeff Griffiths\, Ralph Giles\, and Mozilla!   • Help someone writ
+ e code  • Get help with code  • Write code yourself  • Form a study grou
+ p (coursera\, etc...)  Space is limited\, only RSVP if you're certain th
+ at you can make it.   Schedule  6:00 - Start  9:00 - End  How to Contact
+  Us / Re Comments  Please note any comments you add to this event (below
+ ) will be e-mailed to all members of the group. We're trying to avoid sp
+ amming the list\, so please do not use comments for jokes\, job postings
+ \, requests for help programming something or anything else off topic. I
+ f you have questions or need to contact us\, use the 'contact us' link o
+ n the left. Thanks!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.25;-123.12
+CREATED:20140204T202921Z
+LAST-MODIFIED:20150308T193224Z
+URL:http://www.meetup.com/PolyglotVancouver/events/219814370/
+UID:event_qlqkthytqbsb@meetup.com
+LOCATION:Mozilla YVR Offices (163 West Hastings Street\, Vancouver\, BC\,
+  Canada\, Vancouver\, BC\, Canada)
+CATEGORIES:Computer programming,Software Engineering,Software Development
+ ,Web Development,Open Source,Cloud Computing,Professional Development,De
+ vOps,Data Management,Functional Programming
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T024037Z
+DTSTART;TZID=America/Vancouver:20160105T180000
+DTEND;TZID=America/Vancouver:20160105T210000
+STATUS:CONFIRMED
+SUMMARY:Polyglot Social
+DESCRIPTION:Our monthly meetup for food\, possibly some drinks (no one wi
+ ll force you) and most definitely good conversations. We start gathering
+  around 6:00\, and the social peters out by 10:00.\nWe're meeting in the
+  spacious downstairs room of St Regis restaurant\, at the base of the St
+  Regis hotel\, located kitty corner from the Railway Club.\nHow to Conta
+ ct Us / Re Comments\nPlease note any comments you add to this event (bel
+ ow) will be e-mailed to all members of the group. We're trying to avoid 
+ spamming the list\, so please do not use comments for jokes\, job postin
+ gs\, requests for help programming something or anything else off topic.
+  If you have questions or need to contact us\, use the 'contact us' link
+  on the left. Thanks!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.25;-123.12
+CREATED:20150407T213332Z
+LAST-MODIFIED:20150407T213332Z
+URL:http://www.meetup.com/PolyglotVancouver/events/rthmglyvcbhb/
+UID:event_rthmglyvcbhb@meetup.com
+CATEGORIES:Computer programming,Software Engineering,Software Development
+ ,Web Development,Open Source,Cloud Computing,Professional Development,De
+ vOps,Data Management,Functional Programming
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T024037Z
+DTSTART;TZID=America/Vancouver:20160111T180000
+DTEND;TZID=America/Vancouver:20160111T210000
+STATUS:CONFIRMED
+SUMMARY:Hack/Study/Mentor Night
+DESCRIPTION:NB: this is a self-directed evening\, there will be no presen
+ tation\, or any structured activities provided.  Come and do one or more
+  of the following\, at the Mozilla offices (suite/buzzer 209) -- big tha
+ nks to Jeff Griffiths\, Ralph Giles\, and Mozilla!   • Help someone writ
+ e code  • Get help with code  • Write code yourself  • Form a study grou
+ p (coursera\, etc...)  Space is limited\, only RSVP if you're certain th
+ at you can make it.   Schedule  6:00 - Start  9:00 - End  How to Contact
+  Us / Re Comments  Please note any comments you add to this event (below
+ ) will be e-mailed to all members of the group. We're trying to avoid sp
+ amming the list\, so please do not use comments for jokes\, job postings
+ \, requests for help programming something or anything else off topic. I
+ f you have questions or need to contact us\, use the 'contact us' link o
+ n the left. Thanks!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.25;-123.12
+CREATED:20140204T202921Z
+LAST-MODIFIED:20150308T193224Z
+URL:http://www.meetup.com/PolyglotVancouver/events/222883086/
+UID:event_qlqkthyvcbpb@meetup.com
+LOCATION:Mozilla YVR Offices (163 West Hastings Street\, Vancouver\, BC\,
+  Canada\, Vancouver\, BC\, Canada)
+CATEGORIES:Computer programming,Software Engineering,Software Development
+ ,Web Development,Open Source,Cloud Computing,Professional Development,De
+ vOps,Data Management,Functional Programming
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T024037Z
+DTSTART;TZID=America/Vancouver:20160202T180000
+DTEND;TZID=America/Vancouver:20160202T210000
+STATUS:CONFIRMED
+SUMMARY:Polyglot Social
+DESCRIPTION:Our monthly meetup for food\, possibly some drinks (no one wi
+ ll force you) and most definitely good conversations. We start gathering
+  around 6:00\, and the social peters out by 10:00.\nWe're meeting in the
+  spacious downstairs room of St Regis restaurant\, at the base of the St
+  Regis hotel\, located kitty corner from the Railway Club.\nHow to Conta
+ ct Us / Re Comments\nPlease note any comments you add to this event (bel
+ ow) will be e-mailed to all members of the group. We're trying to avoid 
+ spamming the list\, so please do not use comments for jokes\, job postin
+ gs\, requests for help programming something or anything else off topic.
+  If you have questions or need to contact us\, use the 'contact us' link
+  on the left. Thanks!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.25;-123.12
+CREATED:20150407T213332Z
+LAST-MODIFIED:20150407T213332Z
+URL:http://www.meetup.com/PolyglotVancouver/events/rthmglyvdbdb/
+UID:event_rthmglyvdbdb@meetup.com
+CATEGORIES:Computer programming,Software Engineering,Software Development
+ ,Web Development,Open Source,Cloud Computing,Professional Development,De
+ vOps,Data Management,Functional Programming
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T024037Z
+DTSTART;TZID=America/Vancouver:20160208T180000
+DTEND;TZID=America/Vancouver:20160208T210000
+STATUS:CONFIRMED
+SUMMARY:Hack/Study/Mentor Night
+DESCRIPTION:NB: this is a self-directed evening\, there will be no presen
+ tation\, or any structured activities provided.\nCome and do one or more
+  of the following\, at the Mozilla offices (suite/buzzer 209) -- big tha
+ nks to Jeff Griffiths\, Ralph Giles\, and Mozilla!\n• Help someone write
+  code\n• Get help with code\n• Write code yourself\n• Form a study group
+  (coursera\, etc...)\nSpace is limited\, only RSVP if you're certain tha
+ t you can make it.\nSchedule\n6:00 - Start\n9:00 - End\nHow to Contact U
+ s / Re Comments\nPlease note any comments you add to this event (below) 
+ will be e-mailed to all members of the group. We're trying to avoid spam
+ ming the list\, so please do not use comments for jokes\, job postings\,
+  requests for help programming something or anything else off topic. If 
+ you have questions or need to contact us\, use the 'contact us' link on 
+ the left. Thanks!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.25;-123.12
+CREATED:20140204T202921Z
+LAST-MODIFIED:20150308T193224Z
+URL:http://www.meetup.com/PolyglotVancouver/events/qlqkthyvdblb/
+UID:event_qlqkthyvdblb@meetup.com
+CATEGORIES:Computer programming,Software Engineering,Software Development
+ ,Web Development,Open Source,Cloud Computing,Professional Development,De
+ vOps,Data Management,Functional Programming
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T024037Z
+DTSTART;TZID=America/Vancouver:20160301T180000
+DTEND;TZID=America/Vancouver:20160301T210000
+STATUS:CONFIRMED
+SUMMARY:Polyglot Social
+DESCRIPTION:Our monthly meetup for food\, possibly some drinks (no one wi
+ ll force you) and most definitely good conversations. We start gathering
+  around 6:00\, and the social peters out by 10:00.\nWe're meeting in the
+  spacious downstairs room of St Regis restaurant\, at the base of the St
+  Regis hotel\, located kitty corner from the Railway Club.\nHow to Conta
+ ct Us / Re Comments\nPlease note any comments you add to this event (bel
+ ow) will be e-mailed to all members of the group. We're trying to avoid 
+ spamming the list\, so please do not use comments for jokes\, job postin
+ gs\, requests for help programming something or anything else off topic.
+  If you have questions or need to contact us\, use the 'contact us' link
+  on the left. Thanks!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.25;-123.12
+CREATED:20150407T213332Z
+LAST-MODIFIED:20150407T213332Z
+URL:http://www.meetup.com/PolyglotVancouver/events/rthmglyvfbcb/
+UID:event_rthmglyvfbcb@meetup.com
+CATEGORIES:Computer programming,Software Engineering,Software Development
+ ,Web Development,Open Source,Cloud Computing,Professional Development,De
+ vOps,Data Management,Functional Programming
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150924T024037Z
+DTSTART;TZID=America/Vancouver:20160314T180000
+DTEND;TZID=America/Vancouver:20160314T210000
+STATUS:CONFIRMED
+SUMMARY:Hack/Study/Mentor Night
+DESCRIPTION:NB: this is a self-directed evening\, there will be no presen
+ tation\, or any structured activities provided.  Come and do one or more
+  of the following\, at the Mozilla offices (suite/buzzer 209) -- big tha
+ nks to Jeff Griffiths\, Ralph Giles\, and Mozilla!   • Help someone writ
+ e code  • Get help with code  • Write code yourself  • Form a study grou
+ p (coursera\, etc...)  Space is limited\, only RSVP if you're certain th
+ at you can make it.   Schedule  6:00 - Start  9:00 - End  How to Contact
+  Us / Re Comments  Please note any comments you add to this event (below
+ ) will be e-mailed to all members of the group. We're trying to avoid sp
+ amming the list\, so please do not use comments for jokes\, job postings
+ \, requests for help programming something or anything else off topic. I
+ f you have questions or need to contact us\, use the 'contact us' link o
+ n the left. Thanks!
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:49.25;-123.12
+CREATED:20140204T202921Z
+LAST-MODIFIED:20150308T193224Z
+URL:http://www.meetup.com/PolyglotVancouver/events/221190085/
+UID:event_qlqkthyvfbsb@meetup.com
+LOCATION:Mozilla YVR Offices (163 West Hastings Street\, Vancouver\, BC\,
+  Canada\, Vancouver\, BC\, Canada)
+CATEGORIES:Computer programming,Software Engineering,Software Development
+ ,Web Development,Open Source,Cloud Computing,Professional Development,De
+ vOps,Data Management,Functional Programming
+END:VEVENT
+END:VCALENDAR
